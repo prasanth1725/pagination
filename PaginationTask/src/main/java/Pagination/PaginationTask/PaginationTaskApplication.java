@@ -8,6 +8,8 @@ public class PaginationTaskApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PaginationTaskApplication.class, args);
+		
+		System.out.println("hlo");
 	}
 
 }
